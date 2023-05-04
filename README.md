@@ -1,1 +1,1 @@
-# Exerc-cio-App-Mapas-TEI2023
+# Exercicio-App-Mapas-TEI2023
